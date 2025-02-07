@@ -13,3 +13,5 @@ Click the "Launch Binder" icon bellow and wait for [mybinder.org] to start the n
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljocha/spectus-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Fdemo.ipynb)
 
 TODO citation
+
+<ljocha@ics.muni.cz>
