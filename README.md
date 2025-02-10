@@ -12,6 +12,9 @@ to use your spectra as well.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljocha/spectus-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Fdemo.ipynb)
 
-TODO citation
+For details see 
+
+Adam Hájek, Helge Hecht, Elliott J. Price, Aleš Křenek, _SpecTUS: Spectral Translator for Unknown Structures annotation from EI-MS spectra_, arXiv preprint, 2025, 
+https://doi.org/10.48550/arXiv.2502.05114
 
 <ljocha@ics.muni.cz>
